@@ -1,0 +1,34 @@
+#layout{
+	float: none;
+	height: auto;
+	width: 1024px;
+}
+#header{
+	float: left;
+	background-color:#cfc8c8;
+	height: 50px;
+	width: 1024px;
+	background-repeat: no-repeat;
+	background-size: 1024px;
+}
+#kolom1{
+	line-height:30px;
+	background-color:#cfc8c8;
+	height: 500px;
+	width: 300px;
+	float: left;
+}
+#kolom2{
+	background-color:#cfc8c8;
+	height: 500px;
+	width: 724px;
+	float: left;
+}
+#footer{
+	background-color:#cfc8c8;
+	color:black;
+	clear:both;
+	text-align:center;
+	width: 1024px;
+	height: auto;
+}
